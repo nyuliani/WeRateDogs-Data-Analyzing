@@ -1,4 +1,4 @@
-# WeRateDogs-Data-Analyzing
+# Twitter @WeRateDogs Data Analyzing
 In this project, I am applying my data wrangling skill learned from Udacity Data Analyst Nanodegree. The dataset that I will be wrangling is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs.
 
 This project is a part of Udacity Data Analyst Nanodegree program.
